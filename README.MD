@@ -51,3 +51,4 @@
    - Higher-Order Functions, Functional Programming
    - Array.prototype
    - map, filter & reduce
+   - async vs defer attributes in Javascript 
