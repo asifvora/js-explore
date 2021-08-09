@@ -35,6 +35,15 @@
       - MicroTask Queue in JS (Promises, MutationObserver)
       - What are MicroTasks in JS?
       - Starvation of Functions in Callback Queue
+         - Algo :
+         1. Mark and Sweep
+         2. Inling
+         3. Copy Elision
+         4. Inline Caching
+         5. ECMAScript
+         6. Ignition Interpreter
+         7. TurboFan Optimising Compiler
+         8. Orinoco Garbage Collector
    - JS Engine Exposed, Google's V8 Architecture
       - JavaScript Runtime Environment
       - Browser and Node.js JS Runtime
