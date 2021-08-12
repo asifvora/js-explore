@@ -56,6 +56,9 @@
       - Is JavaScript Interpreted or Compiled Language?
       - Garbage Collector - Mark & Sweep Algorithm
       - Fastest JavaScript Engine
+      - ![Alt Text](./v8.gif)
+
+
    - setTimeout() in deep leval
    - Higher-Order Functions, Functional Programming
    - Array.prototype
